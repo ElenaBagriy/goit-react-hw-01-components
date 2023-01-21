@@ -5,8 +5,8 @@ export const Friend = styled.li`
   display: flex;
   box-sizing: border-box;
   align-items: center;
-  padding: 10px 20px;
-  gap: 15px;
+  padding: 8px 16px;
+  gap: 16px;
   width: 450px;
   border-radius: 10px;
   box-shadow: 5px 5px 8px 1px rgba(112, 111, 111, 1);

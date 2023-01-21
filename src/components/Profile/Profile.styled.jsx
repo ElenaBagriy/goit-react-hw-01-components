@@ -11,7 +11,7 @@ background-color: white;
 
 export const UserDescription = styled.div`
   text-align: center;
-  padding: 50px 30px;`;
+  padding: 48px 32px;`;
 
 export const Avatar = styled.img`
   max-width: 150px;
@@ -20,7 +20,7 @@ export const Avatar = styled.img`
   border-radius: 50%;`;
 
 export const UserName = styled.p`
-  margin-top: 50px;
+  margin-top: 48px;
   font-size: 36px;
   font-weight: 700;`;
 
@@ -45,8 +45,8 @@ export const Item = styled.li`
   display: flex;
   flex-direction: column;
   gap: 5px;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  padding-top: 28px;
+  padding-bottom: 28px;
   align-items: center;
   justify-content: center;
   width: calc(100% / 3);
