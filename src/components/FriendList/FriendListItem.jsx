@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-import { Friend, Status, Avatar, Name, OnlineStatus } from './FriendListItem.styled';
+import { Friend, Status, Avatar, Name } from './FriendListItem.styled';
 
 function FriendListItem({ avatar, name, isOnline }) {
   

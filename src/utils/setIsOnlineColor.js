@@ -6,7 +6,6 @@ function setIsOnlineColor(status) {
         return offlineColor;
     }
     return onlineColor;
-    console.log(onlineColor);
 }
 
 export default setIsOnlineColor;
