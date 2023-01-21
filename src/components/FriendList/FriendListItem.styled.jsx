@@ -17,10 +17,7 @@ export const Status = styled.span`
   width: 25px;
   height: 25px;
   border-radius: 50%;
-  background-color: ${({ online }) => {
-    return setIsOnlineColor(online);
-    }
-  }
+  background-color: ${setIsOnlineColor}
   `;
 
 export const Avatar = styled.img`
