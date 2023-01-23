@@ -22,7 +22,7 @@ export const Item = styled.li`
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  flex-grow: 1;
+  flex-basis: 20%;
   gap: 4px;
   padding-top: 20px;
   padding-bottom: 20px;
